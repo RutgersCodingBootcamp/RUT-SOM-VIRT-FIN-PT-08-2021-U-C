@@ -1,0 +1,33 @@
+item,category,description,price,cost
+edamame,appetizers,"boiled soybeans, maldon sea salt",4,1
+house salad,appetizers,"mixed greens, cherry tomatoes, cucumber, house ginger dressing",4,2
+cucumber sunomono salad,appetizers,"cucumber, ponzu dressing, pickled ginger sproud, sesame seeds",5,2
+hiyashi wakame seaweed salad,appetizers,"sweet soy-marinated wakame seaweed threads, pickled ginger sprout, sesame seeds",5,2
+agedashi tofu,appetizers,"tempura battered tofu, katsuobushi, tsuyu broth, scallions",5,2
+hiyayakko tofu,appetizers,"chilled soft tofu, house shoyu, katsuobushi, ginger, scallions",5,2
+pork floss bao,appetizers,"two steamed buns, minced lean slow braised niman, ranch pork belly, cucumbers, sriracha mayo",4,2
+kakuni bao,appetizers,"two steamed buns, chopped fatty slow braised niman ranch pork belly, cucumbers, house bao sauce",6,3
+edamame fried gyoza (vegan),appetizers,six crispy fried edamame and cabbage pot stickers; ponzu rayu dipping sauce,6,3
+fried gyoza,appetizers,six cripsy fried pork and vegetable pot stickers; ponzu rayu dipping sauce,6,6
+takoyaki,appetizers,"six octopus-filled fried fritters, kewpie mayo, okonomi sauce, aonori, katsuobushi, nori",6,3
+rock shrimp tempura,appetizers,"deep fried tempura battered rock shrimp, sriracha mayo, nisume sauce, aonori, scallions",6,3
+soft-shell crab tempura,appetizers,"single deep fried soft-shell crab, tsuyu dipping broth",6,3
+ebi katsu shrimp bao,appetizers,"two steamed buns, panko-crusted fried shrimp patties, yuzu-kosho mayo, aonori, scallions",6,3
+nagomi shoyu,entree,"shoyu seasoned clear double stock (organic chick broth + house dashi); slow braised niman ranch pork belly, hanjuku tamago, nori, menma, scallions",11,5
+shio ramen,entree,"sea salt seasoned clear double stock (organic chicken broth + house dashi); slow braised niman ranch pork belly, hanjuku tamago, kikurage, nori, scallions",11,5
+spicy miso ramen,entree,"house togarashi miso blend + niman ranch pork bone stock; slow braised niman ranch pork belly, hanjuku tamago, kikurage, nori, scallions",12,5
+vegetarian spicy miso,entree,"house togarashi miso blend + vegan dashi; tempura fried tofu, sweet corn, edamame, kikurage, nori, scallions; organic soy milk upon request",12,5
+miso crab ramen,entree,"house miso crab blend + vegan dashi; slow braised niman ranch pork belly, crab meat, hanjuku tamago, kikurage, nori, scallions",12,6
+soft-shell miso crab ramen,entree,"house miso crab blend + vegan dashi; fried whole soft-shell crab, hanjuku tamago, kikurage, nori, scallions",14,7
+tori paitan ramen,entree,"rich, shoyu seasoned double stock (organic chicken broth + house dashi); slow braised niman ranch pork belly, hanuku tamago, kikurage, nori, scllaions",13,6
+tonkotsu ramen,entree,"rich, shoyi seasoned niman ranch pork bone stock; slow braised niman ranch pork belly, hanjuku tamago, kikurage, nori, spring radish, scallions",13,6
+burnt garlic tonkotsu ramen,entree,"rich, shoyi and burnt garlic seasoned niman ranch pork bone stock; slow braised niman ranch pork belly, hanjuku tamago, kikurage, sweet corn, nori, scallions",14,6
+vegetarian curry + king trumpet mushroom ramen,entree,"house curry blend + vegan dashi; fried king trumpet mushroom, tempura fried tofu, mung bean sprouts, kikurage, nori, scallions",13,7
+truffle butter ramen,entree,"rich, shoyu seasoned niman ranch prok bone stock; truffle compound butter, slow braised niman ranch pork belly, kikurage, sweet corn, nori, scallions",14,7
+green tea,drinks,green tea,2.5,1
+coke,drinks,Coca Cola soda,2,1
+black sesame ice cream,desserts,"house-made black sesame ice cream, valrhona chocolate threads, complimentary hojicha",5,2
+matcha ice cream,desserts,"house-made matcha ice cream, white chocolate pearls; complimentary hojicha",5,2
+mango mochi ice cream,desserts,two rice-cake bonbons filled with strawberry ice cream; complimentary hojicha,5,2
+strawberry mochi ice cream,desserts,two rice-cake bonbons filled with strawberry ice cream; complimentary hojicha,5,2
+black sesame creme brulee,desserts,house made black sesame infused creme brulee; complimentary hojicha,6,3
